@@ -218,16 +218,6 @@ Relevant Coursework:
 - Data Warehousing
 - Machine Learning
 
----
-
-# 📜 Certifications
-
-- Microsoft Azure Fundamentals
-- Azure Data Fundamentals
-- AWS Cloud Practitioner
-- Databricks Fundamentals
-
-*(Add your completed certifications here)*
 
 ---
 
@@ -283,9 +273,10 @@ Relevant Coursework:
 
 # 🌐 Connect With Me
 
-📧 Email: your-email@gmail.com
+📧 Email: markandebhausaheb23@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin-profile
+💼 LinkedIn: www.linkedin.com/in/bhausaheb-markande-ab9916301
+
 
 🌍 Portfolio: https://markandebhausaheb23.netlify.app
 
